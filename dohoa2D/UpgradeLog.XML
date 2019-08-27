@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="dohoa2D">
+</Property><Property Name="Solution File" Value="E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D.sln">
+</Property><Property Name="User Options File" Value="E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D.suo">
+</Property><Property Name="Date" Value="Saturday, May 11, 2013">
+</Property><Property Name="Time" Value="14:34 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="dohoa2D.sln" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D.sln">
+</Event><Event ErrorLevel="0" Project="" Source="dohoa2D.suo" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D.suo">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\dohoa2D.csproj" Description="Project file successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\dohoa2D.csproj">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\doitoado.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\doitoado.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\dthang.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\dthang.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\elip.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\elip.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Form1.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Form1.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Form1.Designer.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\FormBiendoi.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\FormBiendoi.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\FormBiendoi.Designer.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\FormBiendoi.Designer.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formdth.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formdth.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formdth.Designer.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formdth.Designer.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formdtr.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formdtr.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formdtr.Designer.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formdtr.Designer.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formelip.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formelip.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formelip.Designer.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formelip.Designer.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formhbh.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formhbh.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formhbh.Designer.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formhbh.Designer.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formhcn.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formhcn.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formhcn.Designer.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formhcn.Designer.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formhv.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formhv.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formhv.Designer.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formhv.Designer.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\hbh.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\hbh.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\hcn.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\hcn.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\htron.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\htron.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\hvuong.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\hvuong.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Program.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Program.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Properties\Settings.settings" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Resources\dthang5.bmp" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Resources\dthang5.bmp">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Resources\tron.bmp" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Resources\tron.bmp">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Resources\elip.bmp" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Resources\elip.bmp">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Resources\HCN.bmp" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Resources\HCN.bmp">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Resources\vuong.bmp" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Resources\vuong.bmp">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Resources\hbh2.bmp" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Resources\hbh2.bmp">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Resources\Clear_.gif" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Resources\Clear_.gif">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Resources\thoat1.png" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Resources\thoat1.png">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Form1.resx" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Form1.resx">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\FormBiendoi.resx" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\FormBiendoi.resx">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formdth.resx" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formdth.resx">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formdtr.resx" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formdtr.resx">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formelip.resx" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formelip.resx">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formhbh.resx" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formhbh.resx">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formhcn.resx" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formhcn.resx">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Formhv.resx" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Formhv.resx">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\Properties\Resources.resx" Description="File successfully backed up as E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\Backup\dohoa2D\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\dohoa2D.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="dohoa2D" Source="dohoa2D\dohoa2D.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="dohoa2D.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="dohoa2D.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dohoa2D" Source="dohoa2D\dohoa2D.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

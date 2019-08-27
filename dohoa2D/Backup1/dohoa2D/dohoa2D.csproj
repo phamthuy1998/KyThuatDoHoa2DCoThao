@@ -1,0 +1,185 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{778CEB23-7F7A-4C54-BDBE-3406BE00F9A9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>dohoa2D</RootNamespace>
+    <AssemblyName>dohoa2D</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="doitoado.cs" />
+    <Compile Include="dthang.cs" />
+    <Compile Include="elip.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBiendoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBiendoi.Designer.cs">
+      <DependentUpon>FormBiendoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdth.Designer.cs">
+      <DependentUpon>Formdth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdtr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdtr.Designer.cs">
+      <DependentUpon>Formdtr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formelip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formelip.Designer.cs">
+      <DependentUpon>Formelip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formhbh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formhbh.Designer.cs">
+      <DependentUpon>Formhbh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formhcn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formhcn.Designer.cs">
+      <DependentUpon>Formhcn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formhv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formhv.Designer.cs">
+      <DependentUpon>Formhv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hbh.cs" />
+    <Compile Include="hcn.cs" />
+    <Compile Include="htron.cs" />
+    <Compile Include="hvuong.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBiendoi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormBiendoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdth.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Formdth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdtr.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Formdtr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formelip.resx">
+      <DependentUpon>Formelip.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formhbh.resx">
+      <DependentUpon>Formhbh.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formhcn.resx">
+      <DependentUpon>Formhcn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formhv.resx">
+      <DependentUpon>Formhv.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dthang5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tron.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elip.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HCN.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vuong.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbh2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clear_.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

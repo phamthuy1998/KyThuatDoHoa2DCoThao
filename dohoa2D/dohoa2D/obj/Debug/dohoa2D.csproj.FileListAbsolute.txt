@@ -1,0 +1,41 @@
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.exe
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.pdb
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\bin\Debug\dohoa2D.exe
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\bin\Debug\dohoa2D.pdb
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\ResolveAssemblyReference.cache
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Form1.resources
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.FormBiendoi.resources
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formdth.resources
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formdtr.resources
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formelip.resources
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formhbh.resources
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formhcn.resources
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formhv.resources
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Properties.Resources.resources
+E:\Mon hoc\KT do hoa\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.csproj.GenerateResource.Cache
+E:\GIANGDAY\KT DO HOA\Demo_lop_hoc1\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.exe
+E:\GIANGDAY\KT DO HOA\Demo_lop_hoc1\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.pdb
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.exe
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.pdb
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Form1.resources
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.FormBiendoi.resources
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formdth.resources
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formdtr.resources
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formelip.resources
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formhbh.resources
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formhcn.resources
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Formhv.resources
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Properties.Resources.resources
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\obj\Debug\dohoa2D.csproj.GenerateResource.Cache
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\bin\Debug\dohoa2D.exe
+E:\GIANGDAY\KT DO HOA\Demo lop hoc\DOHOA\dohoa2D\dohoa2D\bin\Debug\dohoa2D.pdb
+D:\ktdh\dohoa2D\dohoa2D\bin\Debug\dohoa2D.exe.config
+D:\ktdh\dohoa2D\dohoa2D\bin\Debug\dohoa2D.exe
+D:\ktdh\dohoa2D\dohoa2D\bin\Debug\dohoa2D.pdb
+D:\ktdh\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Form1.resources
+D:\ktdh\dohoa2D\dohoa2D\obj\Debug\dohoa2D.Properties.Resources.resources
+D:\ktdh\dohoa2D\dohoa2D\obj\Debug\dohoa2D.csproj.GenerateResource.cache
+D:\ktdh\dohoa2D\dohoa2D\obj\Debug\dohoa2D.csproj.CoreCompileInputs.cache
+D:\ktdh\dohoa2D\dohoa2D\obj\Debug\dohoa2D.exe
+D:\ktdh\dohoa2D\dohoa2D\obj\Debug\dohoa2D.pdb
+D:\ktdh\dohoa2D\dohoa2D\obj\Debug\dohoa2D.csprojAssemblyReference.cache
